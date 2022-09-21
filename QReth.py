@@ -25,7 +25,7 @@ if is_address_valid == True:
     qr.add_data(address)
     qr.make(fit=True)
     img = qr.make_image(fill_color="#716b94", back_color="black")
-    img.save("EthQR.png")
+    img.save("QReth.png")
     print("Grats your QReth created")
 
 else:
