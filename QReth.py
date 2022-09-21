@@ -1,4 +1,4 @@
-#before getting started please run:  pip intsall qr[pil] in the cmd/shell, otherwise you wont see the QR image
+#before getting started please run:  pip install qr[pil] in the cmd/shell, otherwise you wont see the QR image
 
 import qrcode
 from web3 import Web3  # To interact with Ethereum blockchain using the web3.py library
