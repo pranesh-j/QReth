@@ -16,7 +16,7 @@ qr = qrcode.QRCode(
     box_size=10,
     border=4,
 )
-#Now To generate QR code specific to Ethereum wallet address
+#Now To generate the QR code specific to Ethereum wallet address
 
 is_address_valid = w3.isAddress(address)
 
