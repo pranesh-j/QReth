@@ -9,7 +9,7 @@ w3 = Web3(Web3.HTTPProvider(infura_url))
 
 
 # Add Logo In the Center
-Logo_link = 'eth.png' #save eth.png
+Logo_link = 'eth.png' #save eth.png in your local computer
 logo = Image.open(Logo_link)
 basewidth = 100
  
