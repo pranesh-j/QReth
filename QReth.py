@@ -21,7 +21,7 @@ qr = qrcode.QRCode(error_correction=qrcode.constants.ERROR_CORRECT_H)
 
 address = input("Enter the Eth wallet address: \n")
 
-#Now To generate QR code specific to Ethereum wallet address
+# Now To generate QR code specific to Ethereum wallet address
 
 is_address_valid = w3.isAddress(address)
 
