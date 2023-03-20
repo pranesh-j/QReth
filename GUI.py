@@ -1,4 +1,4 @@
-import sys
+import sys #Importing everything needed
 from PyQt5.QtWidgets import (
     QApplication,
     QWidget,
