@@ -29,7 +29,7 @@ class QRethApp(QWidget):
     def generateQRCode(self):
         address = self.addressEdit.text()
         w3 = Web3(Web3.HTTPProvider("https://mainnet.infura.io/v3/8471a36e96334a3c918afd7107692b11"))
-        is_address_valid = w3.isAddress(address)
+        is_address_valid = w3.is_address(address)
 
         if is_address_valid:
             # Generate QR code image
