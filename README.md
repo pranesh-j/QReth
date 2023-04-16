@@ -6,7 +6,7 @@ Convert your Ethereum wallet address in to a QR code. Written in Python and it i
 <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IyZmZhNzhiMTQyYmYyNGU4N2M5YjA5NzRkYzBkNTE5NjA4NjAzMiZjdD1n/FSKMgHEbnfnkxPdA56/giphy.gif">
 
 
-## Try it for yourself :)
+## Try it out for yourself :)
 
 Clone the project
 
