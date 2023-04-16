@@ -39,4 +39,8 @@ Install dependencies
 ```bash
   pip install pillow
 ```
+## Run the code
+```bash
+  python gui.py
+```
 
